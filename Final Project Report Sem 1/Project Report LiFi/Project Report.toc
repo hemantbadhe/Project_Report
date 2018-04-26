@@ -1,0 +1,88 @@
+\contentsline {section}{Abstract}{}{section*.5}
+\contentsline {section}{Acknowledgement}{i}{section*.6}
+\contentsline {section}{Table of Contents}{iv}{section*.7}
+\contentsline {section}{List of Figures}{v}{section*.8}
+\contentsline {section}{List of Tables}{vi}{section*.9}
+\contentsline {section}{\numberline {1}SYNOPSIS}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Project Title}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Project Option }{2}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Internal Guide}{2}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Sponsorship and External Guide}{2}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}Problem Statement}{2}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.6}Abstract}{3}{subsection.1.6}
+\contentsline {subsection}{\numberline {1.7}Goals and Objectives}{3}{subsection.1.7}
+\contentsline {subsection}{\numberline {1.8}Relevant mathematics associated with the Project}{3}{subsection.1.8}
+\contentsline {subsection}{\numberline {1.9}Names of Conferences / Journals where papers can be published}{5}{subsection.1.9}
+\contentsline {subsection}{\numberline {1.10}Review of Journal Papers supporting Project idea}{5}{subsection.1.10}
+\contentsline {subsection}{\numberline {1.11}Plan of Project Execution}{7}{subsection.1.11}
+\contentsline {section}{\numberline {2}TECHNICAL KEYWORDS}{9}{section.2}
+\contentsline {subsection}{\numberline {2.1}AREA OF PROJECT}{9}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}TECHNICAL KEYWORDS}{9}{subsection.2.2}
+\contentsline {section}{\numberline {3}INTRODUCTION}{11}{section.3}
+\contentsline {subsection}{\numberline {3.1}PROJECT IDEA}{11}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}MOTIVATION OF THE PROJECT}{11}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}LITERATURE SURVEY}{12}{subsection.3.3}
+\contentsline {section}{\numberline {4}PROBLEM DEFINITION AND SCOPE}{16}{section.4}
+\contentsline {subsection}{\numberline {4.1}PROBLEM STATEMENT}{16}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Goals and Objectives}{16}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Scope of Project}{16}{subsubsection.4.1.2}
+\contentsline {subsection}{\numberline {4.2}SOFTWARE CONTEXT}{16}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}MAJOR CONSTRAINTS}{16}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}OUTCOME}{17}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}HARDWARE RESOURCES REQUIRED}{17}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}SOFTWARE RESOURCES REQUIRED}{17}{subsection.4.6}
+\contentsline {section}{\numberline {5}PROJECT PLAN}{19}{section.5}
+\contentsline {subsection}{\numberline {5.1}PROJECT ESTIMATES}{19}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}Reconciled Estimates}{19}{subsubsection.5.1.1}
+\contentsline {subsubsection}{\numberline {5.1.2}Project Resources}{19}{subsubsection.5.1.2}
+\contentsline {subsection}{\numberline {5.2}RISK MANAGEMENT w.r.t. NP HARD ANALYSIS}{20}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Risk Identification}{20}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5.2.2}Risk Analysis}{21}{subsubsection.5.2.2}
+\contentsline {subsubsection}{\numberline {5.2.3}Overview of Risk Mitigation, Monitoring, Management}{21}{subsubsection.5.2.3}
+\contentsline {subsection}{\numberline {5.3}PROJECT SCHEDULE}{23}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}Project task set}{23}{subsubsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.2}Task network}{23}{subsubsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.3}Timeline Chart}{24}{subsubsection.5.3.3}
+\contentsline {subsection}{\numberline {5.4}TEAM ORGANIZATION}{24}{subsection.5.4}
+\contentsline {subsubsection}{\numberline {5.4.1}Team structure}{25}{subsubsection.5.4.1}
+\contentsline {subsubsection}{\numberline {5.4.2}Management reporting and communication}{25}{subsubsection.5.4.2}
+\contentsline {section}{\numberline {6}SOFTWARE REQUIREMENT SPECIFICATION }{27}{section.6}
+\contentsline {subsection}{\numberline {6.1}INTRODUCTION}{27}{subsection.6.1}
+\contentsline {subsubsection}{\numberline {6.1.1}Purpose and Scope of Document}{28}{subsubsection.6.1.1}
+\contentsline {subsubsection}{\numberline {6.1.2}Overview of responsibilities of Developer}{28}{subsubsection.6.1.2}
+\contentsline {subsection}{\numberline {6.2}USAGE SCENARIO}{28}{subsection.6.2}
+\contentsline {subsubsection}{\numberline {6.2.1}User profiles}{28}{subsubsection.6.2.1}
+\contentsline {subsubsection}{\numberline {6.2.2}Use Case View}{28}{subsubsection.6.2.2}
+\contentsline {subsection}{\numberline {6.3}FUNCTIONAL MODEL AND DESCRIPTION}{29}{subsection.6.3}
+\contentsline {subsubsection}{\numberline {6.3.1}Data Flow Diagram}{29}{subsubsection.6.3.1}
+\contentsline {subsubsection}{\numberline {6.3.2}Description of functions}{30}{subsubsection.6.3.2}
+\contentsline {subsubsection}{\numberline {6.3.3}Sequence Diagram}{31}{subsubsection.6.3.3}
+\contentsline {subsubsection}{\numberline {6.3.4}{\relax \fontsize {14.4}{18}\selectfont Non Functional Requirements:}}{32}{subsubsection.6.3.4}
+\contentsline {subsubsection}{\numberline {6.3.5}Design Constraints}{32}{subsubsection.6.3.5}
+\contentsline {subsubsection}{\numberline {6.3.6}Software Interface Description}{32}{subsubsection.6.3.6}
+\contentsline {section}{\numberline {7}DETAILED DESIGN DOCUMENT }{35}{section.7}
+\contentsline {subsection}{\numberline {7.1}INTRODUCTION}{35}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}ARCHITECTURAL DESIGN}{35}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}DATA DESIGN}{35}{subsection.7.3}
+\contentsline {subsubsection}{\numberline {7.3.1}Temporary data structure}{35}{subsubsection.7.3.1}
+\contentsline {subsubsection}{\numberline {7.3.2}Database description}{35}{subsubsection.7.3.2}
+\contentsline {section}{\numberline {8}PROJECT IMPLEMENTATION}{38}{section.8}
+\contentsline {subsection}{\numberline {8.1}INTRODUCTION}{38}{subsection.8.1}
+\contentsline {subsection}{\numberline {8.2}TOOLS AND TECHNOLOGIES USED}{38}{subsection.8.2}
+\contentsline {subsection}{\numberline {8.3}VERIFICATION AND VALIDATION FOR ACCEPTANCE}{39}{subsection.8.3}
+\contentsline {section}{\numberline {9}SOFTWARE TESTING}{41}{section.9}
+\contentsline {subsection}{\numberline {9.1}TYPE OF TESTING USED}{41}{subsection.9.1}
+\contentsline {subsection}{\numberline {9.2}TEST CASES AND TEST RESULTS}{42}{subsection.9.2}
+\contentsline {section}{\numberline {10}RESULTS}{44}{section.10}
+\contentsline {subsection}{\numberline {10.1}SCREEN SHOTS}{44}{subsection.10.1}
+\contentsline {subsection}{\numberline {10.2}OUTPUTS}{44}{subsection.10.2}
+\contentsline {section}{\numberline {11}DEPLOYMENT AND MAINTENANCE}{46}{section.11}
+\contentsline {subsection}{\numberline {11.1}INSTALLATION AND UN-INSTALLATION}{46}{subsection.11.1}
+\contentsline {subsection}{\numberline {11.2}USER HELP}{46}{subsection.11.2}
+\contentsline {section}{\numberline {12}SUMMARY AND CONCLUSION}{48}{section.12}
+\contentsline {section}{Annexure \numberline {A}REFERENCES }{50}{Annexure.1.A}
+\contentsline {section}{Annexure \numberline {B}Laboratory assignments on Project Analysis of Algorithmic Design}{52}{Annexure.1.B}
+\contentsline {section}{Annexure \numberline {C}Laboratory assignments on Quality and Reliability Testing of Project Design}{57}{Annexure.1.C}
+\contentsline {section}{Annexure \numberline {D}Project Planner}{59}{Annexure.1.D}
+\contentsline {section}{Annexure \numberline {E}Reviewers Comments of Paper submitted}{61}{Annexure.1.E}
+\contentsline {section}{Annexure \numberline {F}Plagiarism Report}{63}{Annexure.1.F}
